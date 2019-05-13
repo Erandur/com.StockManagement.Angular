@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'StockManagement';
+  title = 'Projet de fou pour changer la couleur des titres';
 }
